@@ -1,5 +1,8 @@
 <html>
 
+<body>
+<p>This is second master message</p>
+</body>
 
 <body>
 <p>This is first master message</p>
