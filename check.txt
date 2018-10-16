@@ -1,8 +1,14 @@
 <html>
 
+
 <body>
 <p>This is first master message</p>
+<p>Now footer can be seen</p>
 </body>
 
+
+<footer>
+<p>This is footer</p>
+</footer>
 
 </html>
